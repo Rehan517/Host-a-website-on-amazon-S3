@@ -25,7 +25,7 @@ Services I used were amazon S3. Key concepts I learnt include uploading objects 
 
 ### Time, challenges, and wins
 
-This project took me approximately 25-30 mins. The most challenging part was . It was most rewarding to uploading the object.
+This project took me approximately 25-30 mins. The most challenging part was uploading the object. It was most rewarding to host the website and see the results
 
 ---
 
